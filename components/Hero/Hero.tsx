@@ -1,4 +1,4 @@
-import SearchBar from "../SearchBar";
+import SearchBar from "../SearchBar";            // ✅ capital B matches file
 import HeroIllustration from "./HeroIllustration/HeroIllustration";
 
 export default function Hero() {
